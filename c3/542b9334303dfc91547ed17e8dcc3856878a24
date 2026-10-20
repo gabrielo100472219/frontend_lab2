@@ -1,0 +1,61 @@
+.gitignore
+  s_0a133f10fc5fef::t_b424241229b134 1-24
+.npmrc
+  s_0a133f10fc5fef::t_cb3badb2b0db71 1
+README.md
+  s_0a133f10fc5fef::t_75b6cfddd78fb2 1-85
+index.html
+  s_0a133f10fc5fef::t_976b8361a91c0b 1-13
+package-lock.json
+  s_0a133f10fc5fef::t_03e5baa8de4471 1-826
+package.json
+  s_0a133f10fc5fef::t_3e22aaf12cbf9f 1-18
+public/favicon.svg
+  s_0a133f10fc5fef::t_3bca494f39d376 1
+src/data.ts
+  s_0a133f10fc5fef::t_6c2d4e761c4bf1 1-83
+src/main.ts
+  s_0a133f10fc5fef::t_0e3e20c05d13a3 1-11
+src/o01-tipos.ts
+  s_0a133f10fc5fef::t_1306d30d59ddd7 1
+src/o02-funciones.ts
+  s_0a133f10fc5fef::t_afa40aff573508 1
+src/o03-destructuring.ts
+  s_0a133f10fc5fef::t_9d1fdbaca0a0d7 1
+src/o04-opcionales.ts
+  s_0a133f10fc5fef::t_aa3f746e61857d 1
+src/o05-arrays.ts
+  s_0a133f10fc5fef::t_2686f55c8221b9 1
+src/o06-carrito.ts
+  s_0a133f10fc5fef::t_4d69817bc193a7 1
+src/o07-pureza.ts
+  s_0a133f10fc5fef::t_370fb83cdf11b2 1
+src/o08-uniones-genericos.ts
+  s_0a133f10fc5fef::t_57d474f437a955 1
+src/o09-utilidad.ts
+  s_0a133f10fc5fef::t_eb17c53151ffab 1
+src/o10-closures.ts
+  s_0a133f10fc5fef::t_5b55926a8c9a8b 1
+src/o11-immer.ts
+  s_0a133f10fc5fef::t_bd47c993973ef2 1
+src/types.ts
+  s_0a133f10fc5fef::t_a5358c15b80cec 1-2
+tsconfig.json
+  s_0a133f10fc5fef::t_a9a36a26124fc2 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3542b9334303dfc91547ed17e8dcc3856878a24",
+  "prompts": {},
+  "sessions": {
+    "s_0a133f10fc5fef": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8176b6e-689c-4c6e-8dae-96a4b826d434",
+        "model": "unknown"
+      },
+      "human_author": "Gabriel Ortega <gabrielon@ext.inditex.com>"
+    }
+  }
+}
